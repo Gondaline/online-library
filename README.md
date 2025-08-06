@@ -58,7 +58,6 @@ Este projeto simula o backend de um sistema de biblioteca digital, com rotas par
 - `app.js`: Arquivo principal com as rotas da API
 - `supabaseClient.js`: Configuração do Supabase Client
 - `validation.js`: Funções auxiliares para validações
-- `.env`: Contém as variáveis sensíveis (NÃO COMMITAR)
 - `.env.example`: Arquivo modelo com estrutura do `.env`
 
 ---
@@ -66,4 +65,5 @@ Este projeto simula o backend de um sistema de biblioteca digital, com rotas par
 ## Requisitos
 
 - Node.js v18+
+
 - Conta no [Supabase](https://supabase.com/)
